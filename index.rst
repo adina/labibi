@@ -42,7 +42,7 @@ your checking-out pleasure.
 
 I've put up a short blog post `here <http://ivory.idyll.org/blog/rtd-comments-and-editing.html>`__.
 
---titus
+-titus
 
 
 Indices and tables
